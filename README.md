@@ -19,7 +19,7 @@ You can play the latest version of Spheretris here: [https://tureentle.github.io
 *   **Gameplay:**
     *   Tiles of matching shapes (hexagon-on-hexagon, pentagon-on-pentagon) can be placed on the sphere's faces or stacked on existing tiles.
     *   Placing mismatched shapes (e.g., a hexagon tile on a pentagon face) will result in a penalty and the tile will not be placed.
-    *   Complete a full layer of tiles (32 or more) around the sphere to clear it and score points.
+    *   Complete a full layer of tiles (32) around the sphere to clear it and score points.
     *   The game ends if tiles stack too high on the outermost layer.
 
 ## Technologies Used
@@ -31,8 +31,8 @@ You can play the latest version of Spheretris here: [https://tureentle.github.io
 
 ## Future Enhancements (Ideas)
 
+*   Add different Shapes (H - H - H, H - P - H, P - H - P, H - H - P).
 *   More complex scoring for combos or clearing multiple layers.
 *   Different difficulty levels affecting fall speed or piece generation.
 *   Visual polish: better particle effects for layer clears, improved UI.
 *   Sound effects and background music.
-*   Touch controls for mobile play. 
