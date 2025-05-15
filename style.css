@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Prevent scrollbars */
+    background-color: #222;
+}
+ 
+canvas {
+    display: block; /* Remove default inline spacing */
+} 
